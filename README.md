@@ -2,13 +2,13 @@
 
 Pacchetti R di riferimento:
 
-- bibliometrix
-pacchetto:
+## bibliometrix
+- pacchetto:
 https://cran.r-project.org/web/packages/bibliometrix/bibliometrix.pdf
-tutorial:
+- tutorial:
 https://cran.r-project.org/web/packages/bibliometrix/vignettes/bibliometrix-vignette.html
-sito:
+- sito:
 http://www.bibliometrix.org/
 
--rwos
+## rwos
 https://github.com/juba/rwos
