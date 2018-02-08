@@ -10,5 +10,5 @@ https://cran.r-project.org/web/packages/bibliometrix/vignettes/bibliometrix-vign
 - sito:
 http://www.bibliometrix.org/
 
-## rwos
+## rwos (no cran, usare devtools per installare da github)
 - pacchetto e tutorial: https://github.com/juba/rwos
